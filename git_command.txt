@@ -1,1 +1,5 @@
 git init 
+git add <file>
+git commit -m "비고"
+
+git push
